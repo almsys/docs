@@ -1,4 +1,4 @@
-# DevOps / Platform
+# DevOps / Platform engineer
 
 ## Skills
 - Cloud: AWS
